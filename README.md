@@ -6,3 +6,4 @@ practico-1 programacion 1
 En este ejercicio vamos a resolver un problema de conflictos de merge.
 
 1. Crear un repositorio en github llamado conflict-exercise.
+En este ejercicio vamos a resolver un problema de conflictos de merge.
