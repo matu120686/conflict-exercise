@@ -1,9 +1,11 @@
 # conflict-exercise
+
 practico-1 programacion 1
 
-## Ejercicio de resolucion de conflictos
+## Merge Conflict Resolution Exercise
 
-En este ejercicio vamos a resolver un problema de conflictos de merge.
+In this exercise, the goal is to resolve a merge conflict.
 
-1. Crear un repositorio en github llamado conflict-exercise.
-En este ejercicio vamos a resolver un problema de conflictos de merge.
+1. Create a GitHub repository called `conflict-exercise`.
+2. Create conflicting changes on two branches and merge them.
+3. Resolve the resulting conflict by hand.
